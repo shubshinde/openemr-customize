@@ -1,11 +1,9 @@
 # openemr_customize
-I can Customising Look &amp; Feel of  OpenEMR 
+I can customize Look &amp; Feel of  OpenEMR 
 
 
 
 ## Contact Info
-
-
 
 * **Name** : Shub Shinde
 * **Email** : heyimshub@gmail.com
@@ -15,22 +13,24 @@ I can Customising Look &amp; Feel of  OpenEMR
 * **Skill Set** : (PHP , JS, Laravel, Bootstrap CSS, OpenEMR, MySQL)
 * **Website** : [https://shubshinde.github.io/](https://shubshinde.github.io/)  
 
+
 ## My Freelancing Services
 
 > Customising (theme, css, look) of openemr
 > , Adding images , animations, Improving front-end
 
+
 ##  Examples Of Customization :
 
 ### 1. Login Page
 
-**(AFTER)** Login page after customizing.
+  **(AFTER)** Login page after customizing.
 
-![Image of after](https://i.imgur.com/Yalr29F.png)
+  ![Image of after](https://i.imgur.com/Yalr29F.png)
 
-**(BEFORE)** Login page Before customizing.
+  **(BEFORE)** Login page Before customizing.
 
-![Image of before](https://i.imgur.com/BgHV46C.png)
+  ![Image of before](https://i.imgur.com/BgHV46C.png)
 
 More pages examples cooming soon
 
