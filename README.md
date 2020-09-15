@@ -1,4 +1,4 @@
-# openemr_customize
+# Openemr-Customizer
 I can customize Look &amp; Feel of  OpenEMR 
 
 
